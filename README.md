@@ -18,21 +18,7 @@ The prospective compound structures used in the original research project are **
 |`XGBoostLinearClass-Random-Split-CAIX-Ki.knwf`|Data curation, molecular featurization, random 5-fold cross-validation, test-set classification metrics, and out-of-fold ROC analysis.|
 |`XGBoostLinearClass-Random-Split-Test-Model-CAIX-Ki.knwf`|Retraining on the complete curated dataset and prediction of external/user-provided compounds, including class probabilities and similarity-based applicability-domain diagnostics.|
 
-Recommended repository structure:
 
-```text
-CAIX-QSAR-KNIME/
-├── README.md
-├── LICENSE
-├── .gitignore
-├── workflows/
-│   ├── XGBoostLinearClass-Random-Split-CAIX-Ki.knwf
-│   └── XGBoostLinearClass-Random-Split-Test-Model-CAIX-Ki.knwf
-├── data/
-│   └── README.md
-└── figures/
-    └── workflow\_overview.png
-```
 
 \---
 
