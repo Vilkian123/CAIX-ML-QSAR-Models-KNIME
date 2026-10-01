@@ -9,6 +9,11 @@ The repository separates **model validation** from **prospective use**:
 
 The prospective compound structures used in the original research project are **not included in the public repository**.
 
+The workflows are also available on KNIME Community Hub:
+
+- [Random 5-fold cross-validation workflow]: https://hub.knime.com/a/_nx9ohfmgETRxsZ6
+- [Final prospective-prediction workflow]: https://hub.knime.com/a/YlrYSnC4VU_iWu17
+
 \---
 
 ## Repository contents
